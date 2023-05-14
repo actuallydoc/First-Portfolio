@@ -23,7 +23,7 @@ export default function Home() {
         <div className="bg-slate-800">
           <div className="bg-slate-800  text-6xl font-bold bg-cover bg-center p-24 ml-10 mr-10">
             <h1 className="text-center py-5 text-white font-mono transform hover:scale-105 transition-all">
-              Hello! I"m Maj and I"m a
+              Hello! I'm Maj and I'm a
               <span>
                 <Typewriter
                   words={[" Web Developer", " Teribble web designer"]}

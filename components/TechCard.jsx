@@ -7,13 +7,13 @@ function TechCard() {
         <Image
           className="rounded-t-lg"
           src="https://www.pinterest.com/pin/3307399714553319/"
-          alt=""
+          alt="what I'm learning"
           width="50"
           height="40"
         />
         <div class="mr-20 p-10 space-y-3 text-center font-mono sm:max-w-sm md:max-w-md xl:max-w-md">
           <h5 className="mb-2 font-mono text-2xl font-bold tracking-tight text-gray-900 dark:text-white transform  hover:animate-pulse duration-500">
-            Technology that I"m learning!
+            Technology that I'm learning!
           </h5>
 
           <div className="flex text-white hover:animate-bounce">
@@ -28,6 +28,7 @@ function TechCard() {
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"
               width="50"
               height="40"
+              alt="Python"
             />
           </div>
           <div className="flex text-white">
@@ -39,6 +40,7 @@ function TechCard() {
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
               width="50"
               height="40"
+              alt="JavaScript"
             />
           </div>
           <div className="flex text-white">
@@ -50,6 +52,7 @@ function TechCard() {
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/250px-React-icon.svg.png"
               width="50"
               height="40"
+              alt="ReactJS"
             />
           </div>
           <div className="flex text-white">
@@ -64,6 +67,7 @@ function TechCard() {
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
               width="50"
               height="40"
+              alt="NodeJS"
             />
           </div>
           <div className="flex group  text-white">
@@ -75,6 +79,7 @@ function TechCard() {
               src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png"
               width="50"
               height="40"
+              alt="MongoDB"
             />
           </div>
 
@@ -98,6 +103,7 @@ function TechCard() {
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
               width="50"
               height="40"
+              alt="TypeScript"
             />
           </div>
           <div className="flex group  text-white">
@@ -109,6 +115,7 @@ function TechCard() {
               src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png"
               width="50"
               height="40"
+              alt="Prisma"
             />
           </div>
           <div className="flex group  text-white">
@@ -120,6 +127,7 @@ function TechCard() {
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"
               width="60"
               height="15"
+              alt="NextJS"
             />
           </div>
           <div className="flex group  text-white">
@@ -131,6 +139,7 @@ function TechCard() {
               src="https://miro.medium.com/max/800/1*mUISLg4ghf6QYT_f1-cnlg.png"
               width="50"
               height="40"
+              alt="TailwindCSS"
             />
           </div>
           <div className="flex group  text-white">
@@ -145,6 +154,7 @@ function TechCard() {
               src="https://mui.com/static/logo.png"
               width="50"
               height="40"
+              alt="Material UI"
             />
           </div>
         </div>

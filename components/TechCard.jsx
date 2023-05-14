@@ -3,7 +3,7 @@ import Image from "next/image";
 function TechCard() {
   return (
     <div className="sm:flex-row">
-      <div class="sm:max-w-sm  md:max-w-md xl:max-w-md bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700  transform  hover:scale-110 duration-500">
+      <div className="sm:max-w-sm  md:max-w-md xl:max-w-md bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700  transform  hover:scale-110 duration-500">
         <Image
           className="rounded-t-lg"
           src="https://www.pinterest.com/pin/3307399714553319/"
@@ -11,7 +11,7 @@ function TechCard() {
           width="50"
           height="40"
         />
-        <div class="mr-20 p-10 space-y-3 text-center font-mono sm:max-w-sm md:max-w-md xl:max-w-md">
+        <div className="mr-20 p-10 space-y-3 text-center font-mono sm:max-w-sm md:max-w-md xl:max-w-md">
           <h5 className="mb-2 font-mono text-2xl font-bold tracking-tight text-gray-900 dark:text-white transform  hover:animate-pulse duration-500">
             Technology that I'm learning!
           </h5>

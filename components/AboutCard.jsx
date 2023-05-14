@@ -1,13 +1,16 @@
+import Image from "next/image";
 import React from "react";
 
 function AboutCard() {
   return (
     <div>
       <div className="sm:max-w-sm md:max-w-md xl:max-w-xl text-center bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700  transform  hover:scale-110 duration-500">
-        <img
-          className="rounded-t-lg"
-          src="https://www.pinterest.com/pin/3307399714553319/"
-          alt=""
+        <Image
+          className="rounded-t-lg mt-5"
+          src="https://i.pinimg.com/originals/70/4f/2b/704f2b9c53b01caf36eedecd6e4ade0e.png"
+          width="100"
+          height="100"
+          alt="logo"
         />
         <div className="m-auto p-10">
           <h5 className="mb-2 font-mono text-2xl font-bold tracking-tight text-gray-900 dark:text-white">

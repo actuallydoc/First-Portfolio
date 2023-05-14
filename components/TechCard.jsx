@@ -15,7 +15,6 @@ function TechCard() {
           <h5 className="mb-2 font-mono text-2xl font-bold tracking-tight text-gray-900 dark:text-white transform  hover:animate-pulse duration-500">
             Technology that I'm learning!
           </h5>
-
           <div className="flex text-white hover:animate-bounce">
             <div className="underline decoration-sky-500">
               <a>Pyt</a>
@@ -92,6 +91,7 @@ function TechCard() {
               src="https://adityasingh.gallerycdn.vsassets.io/extensions/adityasingh/expressjs-snippets/0.0.1/1639291392716/Microsoft.VisualStudio.Services.Icons.Default"
               width="50"
               height="40"
+              alt="ExpressJS"
             />
           </div>
           <div className="flex group  text-white">

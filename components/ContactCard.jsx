@@ -26,6 +26,7 @@ function ContactCard() {
                   src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
                   width="50"
                   height="40"
+                  alt="logo"
                 />
               </a>
             </p>
@@ -36,6 +37,7 @@ function ContactCard() {
                   src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
                   width="50"
                   height="40"
+                  alt="logo"
                 />
               </a>
             </p>
@@ -47,6 +49,7 @@ function ContactCard() {
                     src="https://i.pinimg.com/originals/01/b1/e4/01b1e436c03e167d3b2b466f75c184a1.png"
                     width="50"
                     height="40"
+                    alt="logo"
                   />
                 </a>
               </p>

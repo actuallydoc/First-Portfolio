@@ -7,13 +7,13 @@ function TechCard() {
         <Image
           className="rounded-t-lg"
           src="https://www.pinterest.com/pin/3307399714553319/"
-          alt="what I'm learning"
+          alt="what I am learning"
           width="50"
           height="40"
         />
         <div className="mr-20 p-10 space-y-3 text-center font-mono sm:max-w-sm md:max-w-md xl:max-w-md">
           <h5 className="mb-2 font-mono text-2xl font-bold tracking-tight text-gray-900 dark:text-white transform  hover:animate-pulse duration-500">
-            Technology that I'm learning!
+            Technology that I am learning!
           </h5>
           <div className="flex text-white hover:animate-bounce">
             <div className="underline decoration-sky-500">

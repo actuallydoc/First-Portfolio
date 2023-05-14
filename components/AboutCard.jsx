@@ -23,13 +23,13 @@ function AboutCard() {
             I love cars
           </p>
           <p className="mb-3 text-lg font-mono text-white transition hover:scale-105">
-            I'm pretty bad at designing websites....I think?
+            I am pretty bad at designing websites....I think?
           </p>
           <p className="mb-3 text-lg font-mono text-white transition hover:scale-105">
             I mostly like backend programming (Node.js, Python, REST,.)
           </p>
           <p className="mb-3 text-lg font-mono text-white transition hover:scale-105">
-            I'm a big fan of the React and Nextjs
+            I am a big fan of the React and Nextjs
           </p>
         </div>
       </div>

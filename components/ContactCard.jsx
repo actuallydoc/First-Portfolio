@@ -18,7 +18,7 @@ function ContactCard() {
           <h5 className="mb-2 font-mono text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
             Contact me!
           </h5>
-          <div className="flex">
+          <div className="flex space-x-3">
             <p className="mb-3 text-lg font-mono text-white transition hover:scale-105">
               <a href="https://github.com/actuallydoc">
                 <Image

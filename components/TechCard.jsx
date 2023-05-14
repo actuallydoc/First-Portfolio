@@ -5,14 +5,14 @@ function TechCard() {
     <div className="sm:flex-row">
       <div class="sm:max-w-sm  md:max-w-md xl:max-w-md bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700  transform  hover:scale-110 duration-500">
         <Image
-          class="rounded-t-lg"
+          className="rounded-t-lg"
           src="https://www.pinterest.com/pin/3307399714553319/"
           alt=""
           width="50"
           height="40"
         />
-        <div class="mr-20 p-10 text-center font-mono sm:max-w-sm md:max-w-md xl:max-w-md">
-          <h5 class="mb-2 font-mono text-2xl font-bold tracking-tight text-gray-900 dark:text-white transform  hover:animate-pulse duration-500">
+        <div class="mr-20 p-10 space-y-3 text-center font-mono sm:max-w-sm md:max-w-md xl:max-w-md">
+          <h5 className="mb-2 font-mono text-2xl font-bold tracking-tight text-gray-900 dark:text-white transform  hover:animate-pulse duration-500">
             Technology that I"m learning!
           </h5>
 
@@ -116,10 +116,10 @@ function TechCard() {
               <a>NextJS</a>
             </div>
             <Image
-              className="my-5 mx-2 max-h-10 text-center rounded-md group:hover:bg-slate-600"
+              className="mx-2  text-center rounded-md group:hover:bg-slate-600"
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"
-              width="50"
-              height="40"
+              width="60"
+              height="15"
             />
           </div>
           <div className="flex group  text-white">

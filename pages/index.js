@@ -47,7 +47,7 @@ export default function Home() {
                     cursorStyle="_"
                     typeSpeed={100}
                     deleteSpeed={200}
-                    delaySpeed={1000}
+                    delaySpeed={300}
                     onLoopDone={handleDone}
                     onType={handleType}
                   />
